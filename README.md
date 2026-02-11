@@ -16,12 +16,10 @@ A Kaggle disaster-tweet classifier that compares a TF-IDF baseline against neura
 - Generates competition submission file
 
 ## Key Results
-- Baseline TF-IDF + Logistic Regression:
-  - Accuracy: **0.8267**
-  - AUC: **0.8682**
-- BiLSTM validation:
-  - Accuracy: **0.8181**
-  - AUC: **0.8847**
+- Baseline TF-IDF + Logistic Regression accuracy: **0.8267**
+- Baseline TF-IDF + Logistic Regression AUC: **0.8682**
+- BiLSTM validation accuracy: **0.8181**
+- BiLSTM validation AUC: **0.8847**
 
 ## Tech Stack
 - Python, TensorFlow/Keras
